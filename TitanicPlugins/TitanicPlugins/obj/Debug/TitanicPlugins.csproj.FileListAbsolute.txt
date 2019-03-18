@@ -1,0 +1,16 @@
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\bin\Debug\TitanicPlugins.dll
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\bin\Debug\TitanicPlugins.pdb
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\bin\Debug\System.Net.Http.dll
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\bin\Debug\System.Net.Http.WebRequest.dll
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\bin\Debug\Newtonsoft.Json.dll
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\bin\Debug\System.Net.Http.xml
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\bin\Debug\System.Net.Http.WebRequest.xml
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\obj\Debug\TitanicPlugins.dll
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\obj\Debug\TitanicPlugins.pdb
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+c:\users\gvenkatesh\documents\visual studio 2015\Projects\TitanicPlugins\TitanicPlugins\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
